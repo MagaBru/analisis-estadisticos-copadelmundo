@@ -1,6 +1,6 @@
 # TP: Gestion Colaborativa, Control de Versiones y Org. Empresarial
 # Proyecto del Tp: Analisis Estadisticos Copa del Mundo
-## Alumna: Leila Magalí Bruno
+## Por Leila Magalí Bruno
 
 ## Escenario
 Escenario elegido: D - Estadísticas de Resultados Deportivos
