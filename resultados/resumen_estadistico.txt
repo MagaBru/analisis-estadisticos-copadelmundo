@@ -1,0 +1,7 @@
+Promedio de goles por partido: 2.85
+Partidos ganados por equipo: Top 5: ganador
+Brazil       76
+Germany      68
+Argentina    47
+Italy        45
+France       39
